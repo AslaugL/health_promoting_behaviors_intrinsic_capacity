@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/736318316.svg)](https://zenodo.org/doi/10.5281/zenodo.10495184)
+
 # Content
 Scripts to perform the analysis and generate tables of the study "Health-promoting behaviors in older adulthood and intrinsic capacity 10 years later: The HUNT study", doi: ...
 
